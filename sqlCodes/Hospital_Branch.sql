@@ -1,0 +1,22 @@
+INSERT INTO Hospital_Branch
+VALUES
+    ('Anwer Khan Modern Hospital Ltd.', 'Dhanmondi', 'Dhaka', '8', '19', 1205, '02-9670295'),
+    ('Apollo Hospital', 'Basundhara', 'Dhaka', 'Block E', '09', 1229, '09666-710678'),
+    ('Care Hospital Ltd.', 'Mohammadpur', 'Dhaka', '2/1-A Iqbal', '01', 1207, '9132548'),
+    ('City Hospital Ltd.', 'Mohammadpur', 'Dhaka', 'Satmosjid Road', 'Lalmatia Housing Street', 1207, '02-8143312'),
+    ('Delta Medical Center Ltd', 'Dhanmondi', 'Dhaka', '4', '04', 1205, '01929-713057'),
+    ('Dhaka Community Hospital', 'Ramna', 'Dhaka', 'Baro Moghbazar', 'Wireless Railgate', 1217, '02-9351190'),
+    ('Dhaka Medical College Hospital', 'Puran Dhaka', 'Dhaka', '13A', 'Dhaka University Street', 1000, '02-55165088'),
+    ('Green Eye & General Hospital', 'Dhanmondi', 'Dhaka', '06', '18', 1205, '01770-408060'),
+    ('Greenland Hospital', 'Uttara', 'Dhaka', '04', '07', 1230, '01716-623627'),
+    ('Holy Family Red Crescent Medical College and Hospital', 'MoghBazar', 'Dhaka', '1 Eskaton Garden Road', '13', 1217, '02-49353031'),
+    ('Ibn Sina Hospital', 'Dhanmondi', 'Dhaka', '15/A', '25', 1209, '02-47118925'),
+    ('Ibrahim Cardiac Hospital and Research Institute', 'Puran Dhaka', 'Dhaka', 'Kazi Nazrul Islam Avenue', 'Shahbagh', 1000, '01714-006706'),
+    ('Labaid Specialized Hospital', 'Puran Dhaka', 'Dhaka', '16', '05', 1000, '09666-710606'),
+    ('Labaid Specialized Hospital', 'Uttara', 'Dhaka', '03', '06', 1230, '01766-662606'),
+    ('Labaid Specialized Hospital', 'Gulshan', 'Dhaka', '18', '26', 1212, '09666-710606'),
+    ('Mirpur Adhunik Hospital', 'Mirpur', 'Dhaka', '05', '12 Dha', 1216, '01550019746'),
+    ('Mirpur General Hospital', 'Mirpur', 'Dhaka', '01', '10', 1216, '01785-906599'),
+    ('Popular Diagnostic Center Ltd.', 'Uttara', 'Dhaka', '04', '06', 1230, '09613-787805'),
+    ('Popular Diagnostic Center Ltd.', 'Dhanmondi', 'Dhaka', '17', '42', 1205, '09613-787807'),
+    ('SQUARE Hospitals Ltd.', 'Mirpur', 'Dhaka', 'Mirpur Road', 'Chorai Bazar', 1216, '01713-141447');
